@@ -1,0 +1,2594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73a37ec8-26ed-4ebf-8872-7f8941d57060" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcodeByKotlin$RunTest.ic" NAME="RunTest Coverage Results" MODIFIED="1583682306325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leetcodeByKotlin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/508/ Most Frequent Subtree Sum.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/703/ Kth Largest Element in a Stream.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/438/ Find All Anagrams in a String.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-775">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/33/ Search in Rotated Sorted Array.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/81/ Search in Rotated Sorted Array II.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="634">
+              <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/724/ Find Pivot Index.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-275" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/733/ Flood Fill.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/695/ Max Area of Island.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1526">
+              <caret line="87" column="13" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/333/ Largest BST Subtree.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="323" column="25" selection-start-line="323" selection-start-column="25" selection-end-line="323" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(())()</find>
+      <find>append</find>
+      <find>poll</find>
+      <find>freqTree</find>
+      <find>CacheNode</find>
+      <find>grid</find>
+      <find>directions</find>
+      <find>fillEmptyRoom</find>
+      <find>beginWord</find>
+      <find>found</find>
+      <find>list11</find>
+      <find>2, 3, 4, 5, 6, 7, 8, 9, 10, 11</find>
+      <find>pop</find>
+      <find>getMedian</find>
+      <find>list</find>
+      <find>MATR</find>
+      <find>matrix2</find>
+      <find>solution</find>
+      <find>&quot;</find>
+      <find>sameLine</find>
+      <find>because pair</find>
+      <find>startIndex</find>
+      <find>distance</find>
+      <find>Solution</find>
+      <find>copy</find>
+      <find>arrays</find>
+      <find>2,1</find>
+      <find>1,2</find>
+      <find>Top-Down</find>
+      <find>-1,-2</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/62/ Unique Paths.kt" />
+        <option value="$PROJECT_DIR$/src/78/ Subsets.kt" />
+        <option value="$PROJECT_DIR$/src/1315/ Sum of Nodes with Even-Valued Grandparent.kt" />
+        <option value="$PROJECT_DIR$/src/1302/ Deepest Leaves Sum.kt" />
+        <option value="$PROJECT_DIR$/src/47/ Permutations II.kt" />
+        <option value="$PROJECT_DIR$/src/16/ 3Sum Closest.kt" />
+        <option value="$PROJECT_DIR$/src/15/ 3Sum.kt" />
+        <option value="$PROJECT_DIR$/src/1206/ Design Skiplist.kt" />
+        <option value="$PROJECT_DIR$/src/636/ Exclusive Time of Functions.kt" />
+        <option value="$PROJECT_DIR$/src/29/ Divide Two Integers.kt" />
+        <option value="$PROJECT_DIR$/src/20/ Valid Parentheses.kt" />
+        <option value="$PROJECT_DIR$/src/259/ 3Sum Smaller.kt" />
+        <option value="$PROJECT_DIR$/src/30/ Substring with Concatenation of All Words.kt" />
+        <option value="$PROJECT_DIR$/src/445/ Add Two Numbers II.kt" />
+        <option value="$PROJECT_DIR$/src/438/ Find All Anagrams in a String.kt" />
+        <option value="$PROJECT_DIR$/src/939/ Minimum Area Rectangle.kt" />
+        <option value="$PROJECT_DIR$/src/974/ Subarray Sums Divisible by K.kt" />
+        <option value="$PROJECT_DIR$/src/24/ Swap Nodes in Pairs.kt" />
+        <option value="$PROJECT_DIR$/src/1656/ Design an Ordered Stream.kt" />
+        <option value="$PROJECT_DIR$/src/1657/ Determine if Two Strings Are Close.kt" />
+        <option value="$PROJECT_DIR$/src/1658/ Minimum Operations to Reduce X to Zero.kt" />
+        <option value="$PROJECT_DIR$/src/179/ Largest Number.kt" />
+        <option value="$PROJECT_DIR$/src/679/ 24 Game.kt" />
+        <option value="$PROJECT_DIR$/src/1342/ Number of Steps to Reduce a Number to Zero.kt" />
+        <option value="$PROJECT_DIR$/src/206/ Reverse Linked List.kt" />
+        <option value="$PROJECT_DIR$/src/234/ Palindrome Linked List.kt" />
+        <option value="$PROJECT_DIR$/src/398/ Random Pick Index.kt" />
+        <option value="$PROJECT_DIR$/src/314/ Binary Tree Vertical Order Traversal.kt" />
+        <option value="$PROJECT_DIR$/src/283/ Move Zeroes.kt" />
+        <option value="$PROJECT_DIR$/src/796/ Rotate String.kt" />
+        <option value="$PROJECT_DIR$/src/827/ Making A Large Island.kt" />
+        <option value="$PROJECT_DIR$/src/156/ Binary Tree Upside Down.kt" />
+        <option value="$PROJECT_DIR$/src/56/ Merge Intervals.kt" />
+        <option value="$PROJECT_DIR$/src/688/ Knight Probability in Chessboard.kt" />
+        <option value="$PROJECT_DIR$/src/930/ Binary Subarrays With Sum.kt" />
+        <option value="$PROJECT_DIR$/src/265/ Paint House II.kt" />
+        <option value="$PROJECT_DIR$/src/931/ Minimum Falling Path Sum.kt" />
+        <option value="$PROJECT_DIR$/src/1289/ Minimum Falling Path Sum II.kt" />
+        <option value="$PROJECT_DIR$/src/689/ Maximum Sum of 3 Non-Overlapping Subarrays.kt" />
+        <option value="$PROJECT_DIR$/src/278/ First Bad Version.kt" />
+        <option value="$PROJECT_DIR$/src/238/ Product of Array Except Self.kt" />
+        <option value="$PROJECT_DIR$/src/694/ Number of Distinct Islands.kt" />
+        <option value="$PROJECT_DIR$/src/695/ Max Area of Island.kt" />
+        <option value="$PROJECT_DIR$/src/698/ Partition to K Equal Sum Subsets.kt" />
+        <option value="$PROJECT_DIR$/src/701/ Insert into a Binary Search Tree.kt" />
+        <option value="$PROJECT_DIR$/src/508/ Most Frequent Subtree Sum.kt" />
+        <option value="$PROJECT_DIR$/src/703/ Kth Largest Element in a Stream.kt" />
+        <option value="$PROJECT_DIR$/src/733/ Flood Fill.kt" />
+        <option value="$PROJECT_DIR$/src/81/ Search in Rotated Sorted Array II.kt" />
+        <option value="$PROJECT_DIR$/src/Main.kt" />
+        <option value="$PROJECT_DIR$/src/33/ Search in Rotated Sorted Array.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="22" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="24" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="26" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="29" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="30" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="41" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="49" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="56" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="61" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="62" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="63" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="65" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="67" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="69" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="76" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="78" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="80" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="84" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="86" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="93" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="99" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="118" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="121" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="125" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="126" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="127" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="128" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="130" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="131" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="138" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="142" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="147" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="149" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="151" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="153" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="154" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="156" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="159" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="162" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="163" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="170" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="173" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="186" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="188" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="189" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="199" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="200" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="201" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="207" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="211" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="222" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="224" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="225" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="228" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="230" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="232" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="234" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="238" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="249" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="251" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="257" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="259" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="260" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="263" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="264" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="265" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="266" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="267" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="268" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="269" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="270" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="272" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="277" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="278" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="279" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="280" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="281" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="282" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="285" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="286" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="287" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="295" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="297" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="300" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="301" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="310" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="312" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="314" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="315" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="316" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="317" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="319" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="322" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="323" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="324" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="325" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="329" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="334" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="340" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="344" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="345" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="346" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="347" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="354" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="358" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="360" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="367" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="371" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="380" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="381" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="382" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="388" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="392" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="394" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="395" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="396" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="398" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="399" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="400" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="402" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="403" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="405" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="408" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="409" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="410" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="413" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="414" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="415" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="416" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="421" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="426" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="428" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="435" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="438" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="445" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="446" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="448" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="452" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="461" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="463" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="477" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="480" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="485" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="486" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="489" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="490" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="491" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="493" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="494" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="496" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="498" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="503" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="505" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="507" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="508" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="509" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="515" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="516" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="518" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="523" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="525" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="528" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="532" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="535" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="536" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="540" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="543" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="547" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="549" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="554" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="556" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="557" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="560" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="567" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="572" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="582" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="593" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="606" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="616" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="621" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="622" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="628" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="632" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="633" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="636" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="637" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="641" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="642" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="647" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="653" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="654" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="655" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="658" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="662" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="663" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="670" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="673" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="674" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="676" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="678" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="679" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="680" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="681" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="684" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="688" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="689" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="692" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="694" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="695" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="698" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="701" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="703" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="708" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="717" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="720" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="721" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="724" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="729" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="733" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="739" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="743" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="752" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="758" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="759" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="763" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="766" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="785" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="791" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="802" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="826" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="827" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="844" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="847" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="848" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="863" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="872" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="875" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="877" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="914" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="917" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="930" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="931" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="934" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="938" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="939" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="958" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="973" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="974" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="986" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="987" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="994" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1009" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1021" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1027" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1033" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1040" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1060" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1119" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1143" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1206" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1249" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1289" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1302" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1310" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1315" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1331" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1332" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1342" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1356" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1358" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1367" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1389" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1392" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1428" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1446" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1460" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1472" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1477" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1480" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1485" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1490" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1507" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1534" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1557" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1603" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1640" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1641" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1642" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1646" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1647" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1649" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1656" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1657" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1658" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcodeByKotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodeByKotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605943204218" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="leetcodeByKotlin" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73a37ec8-26ed-4ebf-8872-7f8941d57060" name="Default Changelist" comment="" />
+      <created>1547375324477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547375324477</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50073636" side_tool="true" weight="0.16165951" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4992636" weight="0.1595136" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5007153" side_tool="true" weight="0.4795181" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49928468" weight="0.32289156" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32891566" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="9" weight="0.3469242" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/314/ Binary Tree Vertical Order Traversal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/251/ Flatten 2D Vector.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-393" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/283/ Move Zeroes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/796/ Rotate String.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/463/ Island Perimeter.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1485/ Clone Binary Tree With Random Pointer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/FdLibm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6005">
+          <caret line="345" column="38" selection-start-line="345" selection-start-column="38" selection-end-line="345" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StrictMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="650" column="30" lean-forward="true" selection-start-line="650" selection-start-column="30" selection-end-line="650" selection-end-column="30" />
+          <folding>
+            <element signature="e#26000#26001#0" expanded="true" />
+            <element signature="e#26047#26048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="666" column="26" lean-forward="true" selection-start-line="666" selection-start-column="26" selection-end-line="666" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/688/ Knight Probability in Chessboard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="48" column="67" lean-forward="true" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/156/ Binary Tree Upside Down.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/138/ Copy List with Random Pointer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/827/ Making A Large Island.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-937">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="e#22#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/256/ Paint House.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/86/ Partition List.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/56/ Merge Intervals.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/931/ Minimum Falling Path Sum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="37" column="111" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/265/ Paint House II.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1289/ Minimum Falling Path Sum II.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/257/ Binary Tree Paths.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/278/ First Bad Version.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="48" column="111" selection-start-line="48" selection-start-column="111" selection-end-line="48" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/689/ Maximum Sum of 3 Non-Overlapping Subarrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/692/ Top K Frequent Words.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/238/ Product of Array Except Self.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/315/ Count of Smaller Numbers After Self.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/157/ Read N Characters Given Read4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/200/ Number of Islands.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/694/ Number of Distinct Islands.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="20" column="10" selection-start-line="20" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#22#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/698/ Partition to K Equal Sum Subsets.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/416/ Partition Equal Subset Sum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/701/ Insert into a Binary Search Tree.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/930/ Binary Subarrays With Sum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1302/ Deepest Leaves Sum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/437/ Path Sum III.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/938/ Range Sum of BST.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/113/ Path Sum II.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1477/ Find Two Non-overlapping Sub-arrays Each With Target Sum.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/112/ Path Sum.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/410/ Split Array Largest Sum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/333/ Largest BST Subtree.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="1012" column="25" selection-start-line="1012" selection-start-column="17" selection-end-line="1012" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/508/ Most Frequent Subtree Sum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="671" column="29" selection-start-line="671" selection-start-column="29" selection-end-line="671" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/703/ Kth Largest Element in a Stream.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/724/ Find Pivot Index.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/695/ Max Area of Island.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1526">
+          <caret line="87" column="13" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/733/ Flood Fill.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/438/ Find All Anagrams in a String.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-775">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/81/ Search in Rotated Sorted Array II.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="323" column="25" selection-start-line="323" selection-start-column="25" selection-end-line="323" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/33/ Search in Rotated Sorted Array.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcodeByKotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
